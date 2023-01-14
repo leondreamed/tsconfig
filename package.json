@@ -1,0 +1,26 @@
+{
+	"name": "@leondreamed/tsconfig",
+	"version": "0.0.0",
+	"description": "My TSConfig",
+	"license": "MIT",
+	"repository": "leondreamed/tsconfig",
+	"author": {
+		"name": "Leon Si",
+		"email": "leon@leondreamed.com",
+		"url": "https://leondreamed.com"
+	},
+	"main": "tsconfig.json",
+	"engines": {
+		"node": ">=14"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	]
+}
